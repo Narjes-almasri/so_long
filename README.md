@@ -8,7 +8,7 @@ Navigate through a map, collect all collectibles, and find the shortest route to
 ## 📌 Features
 
 - **Grid-Based Map** (from `.ber` file)
-- **Smooth Player Movement** (W, A, S, D / arrow keys)
+- **Smooth Player Movement** (W, A, S, D)
 - **Collectibles & Exit Logic**
 - **Real-time Display with Move Counter**
 - **MiniLibX Rendering**
@@ -47,19 +47,23 @@ The program handles and reports various types of errors to ensure smooth gamepla
 - 🧠 **Memory management & cleanup**: Frees all allocated memory upon exit or failure
 
 ---
+## ▶️ Run the Game
+
+1. Compile the game:
+  - make
+  - ./so_long maps/example.ber
+
+---
 ## 🛠️ Technologies
 
 - **Language**: C  
 - **Graphics**: [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx)  
-- **Utilities**: `ft_printf`, `get_next_line`  
+- **Utilities**: `ft_printf`, `get_next_line` , `Libft`
 - **Build Tool**: `Makefile`  
 - **Libraries**: `unistd.h`, `fcntl.h`, `stdlib.h`, `X11/keysym.h`
 
 ---
 
-<!-- ## 📷 Screenshots *(Optional)*
+## 📷 Screenshot
 
-> 📌 Tip: Add one or two screenshots here (game map, game window in action). Upload via GitHub and link like this: -->
-
-<!-- ```markdown
-![Game Screenshot](https://link-to-your-screenshot.png) -->
+![Game Screenshot](https://raw.githubusercontent.com/Narjes-almasri/so_long/refs/heads/main/Screenshot%202025-07-22%20at%2016.13.09.png)

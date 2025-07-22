@@ -66,4 +66,4 @@ The program handles and reports various types of errors to ensure smooth gamepla
 
 ## 📷 Screenshot
 
-![Game Screenshot](https://raw.githubusercontent.com/Narjes-almasri/so_long/refs/heads/main/Screenshot%202025-07-22%20at%2016.13.09.png)
+![Game Screenshot](https://raw.githubusercontent.com/Narjes-almasri/so_long/refs/heads/main/screensh/Screenshot%202025-07-22%20at%2016.13.09.png)

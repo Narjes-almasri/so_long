@@ -5,7 +5,9 @@ Navigate through a map, collect all collectibles, and find the shortest route to
 
 
 <!-- ![Demo GIF](assets/screen-recording-2025-10-06-at-112712_yNVAzFs8.gif) -->
-<img src="assets/output.gif" width="700">
+<p align="center">
+  <img src="assets/output.gif" width="700">
+</p>
 
 ---
 

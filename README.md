@@ -4,8 +4,10 @@ A simple 2D game built in C using the MiniLibX graphics library.
 Navigate through a map, collect all collectibles, and find the shortest route to the exit — all while avoiding walls!
 
 
-![Demo GIF](assets/screen-recording-2025-10-06-at-112712_yNVAzFs8.gif)
-
+<!-- ![Demo GIF](assets/screen-recording-2025-10-06-at-112712_yNVAzFs8.gif) -->
+<p align="center">
+  <img src="assets/screen-recording-2025-10-06-at-112712_yNVAzFs8.gif" width="700">
+</p>
 
 ---
 

@@ -3,6 +3,10 @@
 A simple 2D game built in C using the MiniLibX graphics library.  
 Navigate through a map, collect all collectibles, and find the shortest route to the exit — all while avoiding walls!
 
+
+![Demo GIF](assets/screen-recording-2025-10-06-at-112712_yNVAzFs8.gif)
+
+
 ---
 
 ## 📌 Features
@@ -62,8 +66,8 @@ The program handles and reports various types of errors to ensure smooth gamepla
 - **Build Tool**: `Makefile`  
 - **Libraries**: `unistd.h`, `fcntl.h`, `stdlib.h`, `X11/keysym.h`
 
----
+<!-- ---
 
 ## 📷 Screenshot
 
-![Game Screenshot](https://raw.githubusercontent.com/Narjes-almasri/so_long/refs/heads/main/screensh/Screenshot%202025-07-22%20at%2016.13.09.png)
+![Game Screenshot](https://raw.githubusercontent.com/Narjes-almasri/so_long/refs/heads/main/screensh/Screenshot%202025-07-22%20at%2016.13.09.png) -->
